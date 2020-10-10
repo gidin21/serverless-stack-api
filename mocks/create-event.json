@@ -1,0 +1,9 @@
+{
+    "body" : "{\"content\":\"Ola Mundo\",\"attachment\":\"ola.jpg\"}",
+    "requestContext": {
+      "identity": {
+        "cognitoIdentityId": "USER-SUB-4321"
+      }
+    }
+}
+
